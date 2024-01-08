@@ -1,0 +1,18 @@
+.red {
+    background-color: rgb(229, 126, 126);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.px24 {
+    font-size: 24px;
+}
+
+.blue2 {
+    font-size: 36px;
+    color: hsl(225, 65%, 49%);
+}
+
+.green {
+    background-color: #8ddb60;
+    font-weight: bold;
+}
